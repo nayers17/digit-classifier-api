@@ -1,0 +1,5 @@
+{
+  "train_acc": 1.0,
+  "test_acc": 0.97,
+  "cv_mean": 0.968
+}
